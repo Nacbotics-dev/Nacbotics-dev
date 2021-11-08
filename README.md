@@ -9,7 +9,7 @@
 - 👀 I’m interested in All things AI.
 - 👯 I’m looking to collaborate on next gen Chatbot systems
 
-- 💬 Ask me about ...
+- 💬 Ask me about Python programming and web development
 - 🌱 I’m currently learning JavaScript and all its children.
 - 💞️ I’m looking to collaborate on Chatbot projects/ and innovative projects
 - 📫 How to reach me, you can reach me via my Gmail xavierroymccoy@gmail.com

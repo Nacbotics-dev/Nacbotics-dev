@@ -16,6 +16,8 @@
 
 I also maintain the GitHub account https://github.com/nacbotics5
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacbotics-dev)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Nacbotics-dev/Nacbotics-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
